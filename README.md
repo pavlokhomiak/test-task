@@ -1,5 +1,7 @@
 Based on : Spring Boot Spring Data + Hibernate H2 database (file mode) 
 
+Check style plugin and travis was configured.
+
 1. Spring Security -> Three roles (USER/ADMIN/OWNER) 
 
 	1.1. Login/Registration as a user (encode password in db) 
